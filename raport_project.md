@@ -117,7 +117,7 @@ Classification raport baseline:
 
 Classification raport best classifier:
 
-| precision    | recall | f1-score | support |      |
+|      | precision    | recall | f1-score | support |
 |--------------|--------|----------|---------|------|
 | -1           | 0.86   | 0.90     | 0.88    | 124  |
 | 1            | 0.99   | 0.98     | 0.99    | 1114 |
