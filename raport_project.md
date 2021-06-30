@@ -91,14 +91,14 @@ Conclusions
                
 
 
-|                         Confusion matrix baseline                           |
+|                         Confusion matrix baseline|                           |
 |--------------------------------------|--------------------------------------|
 | 10                                   | 114                                  |
 | 118                                  | 996                                  |
 
 
 
-|                      Confusion matrix best classifier                       |
+|                      Confusion matrix best classifier   |                    |
 |--------------------------------------|--------------------------------------|
 | 111                                  | 13                                   |
 | 18                                   | 1096                                 |
