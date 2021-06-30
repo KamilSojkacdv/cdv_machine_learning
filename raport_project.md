@@ -90,15 +90,15 @@ Conclusions
 
                
 
+Confusion matrix baseline
+|---|                 positive        |                negative           |
+|---|--------------------------------------|--------------------------------------|
+|positive| 10                                   | 114                                  |
+|negative| 118                                  | 996                                  |
 
-|                         Confusion matrix baseline|                           |
-|--------------------------------------|--------------------------------------|
-| 10                                   | 114                                  |
-| 118                                  | 996                                  |
 
-
-
-|                      Confusion matrix best classifier   |                    |
+Confusion matrix best classifier 
+|                        |                    |
 |--------------------------------------|--------------------------------------|
 | 111                                  | 13                                   |
 | 18                                   | 1096                                 |
