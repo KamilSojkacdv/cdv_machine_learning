@@ -107,6 +107,16 @@ Confusion matrix best classifier
 
 Classification raport baseline:
 
+|              | precision | recall | f1-score | support |
+|--------------|-----------|--------|----------|---------|
+| -1           | 0.10      | 0.09   | 0.09     | 124     |
+| 1            | 0.90      | 0.91   | 0.90     | 1114    |
+| accuracy     |           |        | 0.83     | 1238    |
+| macro avg    | 0.50      | 0.50   | 0.50     | 1238    |
+| weighted avg | 0.82      | 0.83   | 0.82     | 1238    |
+
+Classification raport best classifier:
+
 | precision    | recall | f1-score | support |      |
 |--------------|--------|----------|---------|------|
 | -1           | 0.86   | 0.90     | 0.88    | 124  |
@@ -114,17 +124,3 @@ Classification raport baseline:
 | accuracy     |        |          | 0.97    | 1238 |
 | macro avg    | 0.92   | 0.94     | 0.93    | 1238 |
 | weighted avg | 0.98   | 0.97     | 0.98    | 1238 |
-
-Classification raport best classifier:
-
-             precision    recall  f1-score   support
-
-          -1       0.86      0.90      0.88       124
-
-           1       0.99      0.98      0.99      1114
-
-    accuracy                           0.97      1238
-
-   macro avg       0.92      0.94      0.93      1238
-
-weighted avg       0.98      0.97      0.98      1238
